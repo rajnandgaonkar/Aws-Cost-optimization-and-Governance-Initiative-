@@ -390,8 +390,8 @@ Track the following KPIs:
 - Annual strategy reviews
 
 ### Contact Information
-- **Project Lead:** [Your Name] - [email@company.com]
-- **DevOps Team:** [devops@company.com]
+- **Project Lead:** Example  - devops.engineer@example.com
+- **DevOps Team:** [devops@example.com]
 - **Slack Channel:** #aws-cost-optimization
 
 ## License
